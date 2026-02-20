@@ -1,6 +1,4 @@
 # Curriculum
-Atividade EAD - 19/02 
-
 
 <!DOCTYPE html>
 <html>
