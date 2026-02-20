@@ -47,7 +47,8 @@ Atividade EAD - 19/02
         <h2>Experiência Profissional</h2>
         <p>Cargo: Auxiliar Administrativo</p>
         <p>Empresa: TotalLife Assistência a Vida </p>
-        <p>Descrição: 1 - Agendador (01/2020 a 06/2020): Elaboração de kits de atendimentos (ASO), envio e confirmação de recebimento junto clínicas, auditoria da documentação. 
+        <p>Descrição: 
+1 - Agendador (01/2020 a 06/2020): Elaboração de kits de atendimentos (ASO), envio e confirmação de recebimento junto clínicas, auditoria da documentação. 
 2 - Relacionador (06/2020 a 03/2023): Agendamento de exames ocupacionais, preenchimento de planilhas, contato com clínicas credenciadas, suporte a equipe interna e externa, planejamento e execução de roteirização, emissão de relatórios e preenchimento de sistemas maestro/SOC.
 3 - Auxiliar de faturamento (03/2023 a 06/2023): Organização de documentos, cobrança do cliente, preenchimento de planilhas de controle. 
 4 - Auxiliar logística (06/2023 a 04/2024): planejamento e execução da roteirização, lançamento de rota no sistema GPS, auxílio a equipe externa, reserva de hospedagem, compra de passagem, preenchimento de planilhas. </p>
